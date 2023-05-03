@@ -1,0 +1,20 @@
+cff-version: 0.0.0
+message: "If you use this data please cite as below"
+authors:
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Moore
+    given-names: Candace Makeda
+    orcid: "https://orcid.org/0000-0003-1672-7565"
+ 
+keywords:
+  - EMG
+  - respiratory
+  - Python
+  - surface EMG
+license: Apache-2.0
+
+repository-code: "https://github.com/ReSurfEMG/synthetic_data"
+title: "ReSurfEMG synthetic data"
+version: "0.0.0"
+date-released: 04/05/2023
